@@ -1,0 +1,2700 @@
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.68862745098
+f1_score	0.68862745098
+precision_score	0.68862745098
+recall_score	0.68862745098
+2 class classification	0/1,-1
+accuracy_score	0.712941176471
+f1_score	0.796213808463
+precision_score	0.707920792079
+recall_score	0.909669211196
+2 class classification	1/0,-1
+accuracy_score	0.745882352941
+f1_score	0.492163009404
+precision_score	0.625498007968
+recall_score	0.405684754522
+2 class classification	-1/0,1
+accuracy_score	0.918431372549
+f1_score	0.103448275862
+precision_score	0.428571428571
+recall_score	0.0588235294118
+matrix_cross_valid
+715,67,4
+226,157,4
+69,27,6
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.703529411765
+f1_score	0.703529411765
+precision_score	0.703529411765
+recall_score	0.703529411765
+2 class classification	0/1,-1
+accuracy_score	0.72
+f1_score	0.802216066482
+precision_score	0.710500490677
+recall_score	0.921119592875
+2 class classification	1/0,-1
+accuracy_score	0.76
+f1_score	0.506451612903
+precision_score	0.673819742489
+recall_score	0.405684754522
+2 class classification	-1/0,1
+accuracy_score	0.927058823529
+f1_score	0.256
+precision_score	0.695652173913
+recall_score	0.156862745098
+matrix_cross_valid
+724,60,2
+225,157,5
+70,16,16
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.678431372549
+f1_score	0.678431372549
+precision_score	0.678431372549
+recall_score	0.678431372549
+2 class classification	0/1,-1
+accuracy_score	0.696470588235
+f1_score	0.786069651741
+precision_score	0.695014662757
+recall_score	0.904580152672
+2 class classification	1/0,-1
+accuracy_score	0.741960784314
+f1_score	0.46677471637
+precision_score	0.626086956522
+recall_score	0.372093023256
+2 class classification	-1/0,1
+accuracy_score	0.918431372549
+f1_score	0.161290322581
+precision_score	0.454545454545
+recall_score	0.0980392156863
+matrix_cross_valid
+711,67,8
+239,144,4
+73,19,10
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.678431372549
+f1_score	0.678431372549
+precision_score	0.678431372549
+recall_score	0.678431372549
+2 class classification	0/1,-1
+accuracy_score	0.697254901961
+f1_score	0.784116331096
+precision_score	0.699600798403
+recall_score	0.891857506361
+2 class classification	1/0,-1
+accuracy_score	0.742745098039
+f1_score	0.479365079365
+precision_score	0.621399176955
+recall_score	0.390180878553
+2 class classification	-1/0,1
+accuracy_score	0.916862745098
+f1_score	0.19696969697
+precision_score	0.433333333333
+recall_score	0.127450980392
+matrix_cross_valid
+701,74,11
+230,151,6
+71,18,13
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.676862745098
+f1_score	0.676862745098
+precision_score	0.676862745098
+recall_score	0.676862745098
+2 class classification	0/1,-1
+accuracy_score	0.70431372549
+f1_score	0.792515134838
+precision_score	0.698351115422
+recall_score	0.916030534351
+2 class classification	1/0,-1
+accuracy_score	0.737254901961
+f1_score	0.449917898194
+precision_score	0.617117117117
+recall_score	0.354005167959
+2 class classification	-1/0,1
+accuracy_score	0.912156862745
+f1_score	0.0967741935484
+precision_score	0.272727272727
+recall_score	0.0588235294118
+matrix_cross_valid
+720,61,5
+239,137,11
+72,24,6
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.672156862745
+f1_score	0.672156862745
+precision_score	0.672156862745
+recall_score	0.672156862745
+2 class classification	0/1,-1
+accuracy_score	0.693333333333
+f1_score	0.781929726715
+precision_score	0.696127110228
+recall_score	0.891857506361
+2 class classification	1/0,-1
+accuracy_score	0.732549019608
+f1_score	0.459587955626
+precision_score	0.594262295082
+recall_score	0.374677002584
+2 class classification	-1/0,1
+accuracy_score	0.918431372549
+f1_score	0.174603174603
+precision_score	0.458333333333
+recall_score	0.107843137255
+matrix_cross_valid
+701,76,9
+238,145,4
+68,23,11
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.686274509804
+f1_score	0.686274509804
+precision_score	0.686274509804
+recall_score	0.686274509804
+2 class classification	0/1,-1
+accuracy_score	0.700392156863
+f1_score	0.788716814159
+precision_score	0.697651663405
+recall_score	0.907124681934
+2 class classification	1/0,-1
+accuracy_score	0.756862745098
+f1_score	0.490131578947
+precision_score	0.674208144796
+recall_score	0.385012919897
+2 class classification	-1/0,1
+accuracy_score	0.915294117647
+f1_score	0.194029850746
+precision_score	0.40625
+recall_score	0.127450980392
+matrix_cross_valid
+713,59,14
+233,149,5
+76,13,13
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.662745098039
+f1_score	0.662745098039
+precision_score	0.662745098039
+recall_score	0.662745098039
+2 class classification	0/1,-1
+accuracy_score	0.692549019608
+f1_score	0.776255707763
+precision_score	0.703933747412
+recall_score	0.865139949109
+2 class classification	1/0,-1
+accuracy_score	0.712156862745
+f1_score	0.456296296296
+precision_score	0.534722222222
+recall_score	0.397932816537
+2 class classification	-1/0,1
+accuracy_score	0.920784313725
+f1_score	0.178861788618
+precision_score	0.52380952381
+recall_score	0.107843137255
+matrix_cross_valid
+680,101,5
+228,154,5
+58,33,11
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.697254901961
+f1_score	0.697254901961
+precision_score	0.697254901961
+recall_score	0.697254901961
+2 class classification	0/1,-1
+accuracy_score	0.721568627451
+f1_score	0.801786711334
+precision_score	0.714427860697
+recall_score	0.913486005089
+2 class classification	1/0,-1
+accuracy_score	0.752941176471
+f1_score	0.508580343214
+precision_score	0.641732283465
+recall_score	0.421188630491
+2 class classification	-1/0,1
+accuracy_score	0.92
+f1_score	0.135593220339
+precision_score	0.5
+recall_score	0.078431372549
+matrix_cross_valid
+718,62,6
+222,163,2
+65,29,8
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.693333333333
+f1_score	0.693333333333
+precision_score	0.693333333333
+recall_score	0.693333333333
+2 class classification	0/1,-1
+accuracy_score	0.71137254902
+f1_score	0.79418344519
+precision_score	0.708582834331
+recall_score	0.903307888041
+2 class classification	1/0,-1
+accuracy_score	0.753725490196
+f1_score	0.509375
+precision_score	0.644268774704
+recall_score	0.421188630491
+2 class classification	-1/0,1
+accuracy_score	0.921568627451
+f1_score	0.180327868852
+precision_score	0.55
+recall_score	0.107843137255
+matrix_cross_valid
+710,71,5
+220,163,4
+72,19,11
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.681568627451
+f1_score	0.681568627451
+precision_score	0.681568627451
+recall_score	0.681568627451
+2 class classification	0/1,-1
+accuracy_score	0.699607843137
+f1_score	0.785674314494
+precision_score	0.701298701299
+recall_score	0.893129770992
+2 class classification	1/0,-1
+accuracy_score	0.741960784314
+f1_score	0.483516483516
+precision_score	0.616
+recall_score	0.397932816537
+2 class classification	-1/0,1
+accuracy_score	0.921568627451
+f1_score	0.206349206349
+precision_score	0.541666666667
+recall_score	0.127450980392
+matrix_cross_valid
+702,78,6
+228,154,5
+71,18,13
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.686274509804
+f1_score	0.686274509804
+precision_score	0.686274509804
+recall_score	0.686274509804
+2 class classification	0/1,-1
+accuracy_score	0.707450980392
+f1_score	0.794716565768
+precision_score	0.700290979631
+recall_score	0.918575063613
+2 class classification	1/0,-1
+accuracy_score	0.746666666667
+f1_score	0.466115702479
+precision_score	0.646788990826
+recall_score	0.364341085271
+2 class classification	-1/0,1
+accuracy_score	0.918431372549
+f1_score	0.1875
+precision_score	0.461538461538
+recall_score	0.117647058824
+matrix_cross_valid
+722,58,6
+238,141,8
+71,19,12
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.68
+f1_score	0.68
+precision_score	0.68
+recall_score	0.68
+2 class classification	0/1,-1
+accuracy_score	0.698039215686
+f1_score	0.785515320334
+precision_score	0.698711595639
+recall_score	0.896946564885
+2 class classification	1/0,-1
+accuracy_score	0.750588235294
+f1_score	0.492012779553
+precision_score	0.644351464435
+recall_score	0.397932816537
+2 class classification	-1/0,1
+accuracy_score	0.91137254902
+f1_score	0.124031007752
+precision_score	0.296296296296
+recall_score	0.078431372549
+matrix_cross_valid
+705,69,12
+226,154,7
+78,16,8
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.681568627451
+f1_score	0.681568627451
+precision_score	0.681568627451
+recall_score	0.681568627451
+2 class classification	0/1,-1
+accuracy_score	0.702745098039
+f1_score	0.790027700831
+precision_score	0.699705593719
+recall_score	0.907124681934
+2 class classification	1/0,-1
+accuracy_score	0.738823529412
+f1_score	0.470588235294
+precision_score	0.611570247934
+recall_score	0.382428940568
+2 class classification	-1/0,1
+accuracy_score	0.921568627451
+f1_score	0.137931034483
+precision_score	0.571428571429
+recall_score	0.078431372549
+matrix_cross_valid
+713,71,2
+235,148,4
+71,23,8
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.676862745098
+f1_score	0.676862745098
+precision_score	0.676862745098
+recall_score	0.676862745098
+2 class classification	0/1,-1
+accuracy_score	0.703529411765
+f1_score	0.787640449438
+precision_score	0.70523138833
+recall_score	0.891857506361
+2 class classification	1/0,-1
+accuracy_score	0.730980392157
+f1_score	0.479514415781
+precision_score	0.580882352941
+recall_score	0.40826873385
+2 class classification	-1/0,1
+accuracy_score	0.919215686275
+f1_score	0.0720720720721
+precision_score	0.444444444444
+recall_score	0.0392156862745
+matrix_cross_valid
+701,85,0
+224,158,5
+69,29,4
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.683921568627
+f1_score	0.683921568627
+precision_score	0.683921568627
+recall_score	0.683921568627
+2 class classification	0/1,-1
+accuracy_score	0.705098039216
+f1_score	0.788526434196
+precision_score	0.706653225806
+recall_score	0.891857506361
+2 class classification	1/0,-1
+accuracy_score	0.743529411765
+f1_score	0.503793626707
+precision_score	0.610294117647
+recall_score	0.428940568475
+2 class classification	-1/0,1
+accuracy_score	0.919215686275
+f1_score	0.0884955752212
+precision_score	0.454545454545
+recall_score	0.0490196078431
+matrix_cross_valid
+701,82,3
+218,166,3
+73,24,5
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.700392156863
+f1_score	0.700392156863
+precision_score	0.700392156863
+recall_score	0.700392156863
+2 class classification	0/1,-1
+accuracy_score	0.716862745098
+f1_score	0.800882515168
+precision_score	0.706913339825
+recall_score	0.923664122137
+2 class classification	1/0,-1
+accuracy_score	0.761568627451
+f1_score	0.506493506494
+precision_score	0.681222707424
+recall_score	0.403100775194
+2 class classification	-1/0,1
+accuracy_score	0.922352941176
+f1_score	0.181818181818
+precision_score	0.578947368421
+recall_score	0.107843137255
+matrix_cross_valid
+726,57,3
+226,156,5
+75,16,11
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.681568627451
+f1_score	0.681568627451
+precision_score	0.681568627451
+recall_score	0.681568627451
+2 class classification	0/1,-1
+accuracy_score	0.701960784314
+f1_score	0.79097909791
+precision_score	0.696705426357
+recall_score	0.91475826972
+2 class classification	1/0,-1
+accuracy_score	0.748235294118
+f1_score	0.476345840131
+precision_score	0.646017699115
+recall_score	0.377260981912
+2 class classification	-1/0,1
+accuracy_score	0.912941176471
+f1_score	0.0672268907563
+precision_score	0.235294117647
+recall_score	0.0392156862745
+matrix_cross_valid
+719,60,7
+235,146,6
+78,20,4
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.673725490196
+f1_score	0.673725490196
+precision_score	0.673725490196
+recall_score	0.673725490196
+2 class classification	0/1,-1
+accuracy_score	0.694117647059
+f1_score	0.782608695652
+precision_score	0.696428571429
+recall_score	0.893129770992
+2 class classification	1/0,-1
+accuracy_score	0.730980392157
+f1_score	0.461538461538
+precision_score	0.588
+recall_score	0.37984496124
+2 class classification	-1/0,1
+accuracy_score	0.922352941176
+f1_score	0.168067226891
+precision_score	0.588235294118
+recall_score	0.0980392156863
+matrix_cross_valid
+702,82,2
+235,147,5
+71,21,10
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.678431372549
+f1_score	0.678431372549
+precision_score	0.678431372549
+recall_score	0.678431372549
+2 class classification	0/1,-1
+accuracy_score	0.705882352941
+f1_score	0.787294384572
+precision_score	0.71033776868
+recall_score	0.882951653944
+2 class classification	1/0,-1
+accuracy_score	0.734117647059
+f1_score	0.48401826484
+precision_score	0.588888888889
+recall_score	0.410852713178
+2 class classification	-1/0,1
+accuracy_score	0.916862745098
+f1_score	0.184615384615
+precision_score	0.428571428571
+recall_score	0.117647058824
+matrix_cross_valid
+694,82,10
+222,159,6
+61,29,12
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.679215686275
+f1_score	0.679215686275
+precision_score	0.679215686275
+recall_score	0.679215686275
+2 class classification	0/1,-1
+accuracy_score	0.697254901961
+f1_score	0.783874580067
+precision_score	0.7
+recall_score	0.89058524173
+2 class classification	1/0,-1
+accuracy_score	0.742745098039
+f1_score	0.489096573209
+precision_score	0.61568627451
+recall_score	0.405684754522
+2 class classification	-1/0,1
+accuracy_score	0.918431372549
+f1_score	0.147540983607
+precision_score	0.45
+recall_score	0.0882352941176
+matrix_cross_valid
+700,77,9
+228,157,2
+72,21,9
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.678431372549
+f1_score	0.678431372549
+precision_score	0.678431372549
+recall_score	0.678431372549
+2 class classification	0/1,-1
+accuracy_score	0.702745098039
+f1_score	0.785754663652
+precision_score	0.707019328586
+recall_score	0.884223918575
+2 class classification	1/0,-1
+accuracy_score	0.733333333333
+f1_score	0.481707317073
+precision_score	0.587360594796
+recall_score	0.40826873385
+2 class classification	-1/0,1
+accuracy_score	0.920784313725
+f1_score	0.192
+precision_score	0.521739130435
+recall_score	0.117647058824
+matrix_cross_valid
+695,84,7
+225,158,4
+63,27,12
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.675294117647
+f1_score	0.675294117647
+precision_score	0.675294117647
+recall_score	0.675294117647
+2 class classification	0/1,-1
+accuracy_score	0.698823529412
+f1_score	0.784511784512
+precision_score	0.701807228916
+recall_score	0.889312977099
+2 class classification	1/0,-1
+accuracy_score	0.73568627451
+f1_score	0.480739599384
+precision_score	0.595419847328
+recall_score	0.403100775194
+2 class classification	-1/0,1
+accuracy_score	0.916078431373
+f1_score	0.100840336134
+precision_score	0.352941176471
+recall_score	0.0588235294118
+matrix_cross_valid
+699,81,6
+226,156,5
+71,25,6
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.672941176471
+f1_score	0.672941176471
+precision_score	0.672941176471
+recall_score	0.672941176471
+2 class classification	0/1,-1
+accuracy_score	0.693333333333
+f1_score	0.78217270195
+precision_score	0.695738354807
+recall_score	0.893129770992
+2 class classification	1/0,-1
+accuracy_score	0.731764705882
+f1_score	0.46394984326
+precision_score	0.589641434263
+recall_score	0.382428940568
+2 class classification	-1/0,1
+accuracy_score	0.920784313725
+f1_score	0.136752136752
+precision_score	0.533333333333
+recall_score	0.078431372549
+matrix_cross_valid
+702,80,4
+236,148,3
+71,23,8
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.685490196078
+f1_score	0.685490196078
+precision_score	0.685490196078
+recall_score	0.685490196078
+2 class classification	0/1,-1
+accuracy_score	0.701176470588
+f1_score	0.789851075565
+precision_score	0.69717624148
+recall_score	0.910941475827
+2 class classification	1/0,-1
+accuracy_score	0.755294117647
+f1_score	0.488524590164
+precision_score	0.668161434978
+recall_score	0.385012919897
+2 class classification	-1/0,1
+accuracy_score	0.914509803922
+f1_score	0.141732283465
+precision_score	0.36
+recall_score	0.0882352941176
+matrix_cross_valid
+716,58,12
+234,149,4
+77,16,9
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.680784313725
+f1_score	0.680784313725
+precision_score	0.680784313725
+recall_score	0.680784313725
+2 class classification	0/1,-1
+accuracy_score	0.705882352941
+f1_score	0.790853318461
+precision_score	0.704071499503
+recall_score	0.90203562341
+2 class classification	1/0,-1
+accuracy_score	0.736470588235
+f1_score	0.476635514019
+precision_score	0.6
+recall_score	0.395348837209
+2 class classification	-1/0,1
+accuracy_score	0.919215686275
+f1_score	0.104347826087
+precision_score	0.461538461538
+recall_score	0.0588235294118
+matrix_cross_valid
+709,73,4
+231,153,3
+67,29,6
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.683921568627
+f1_score	0.683921568627
+precision_score	0.683921568627
+recall_score	0.683921568627
+2 class classification	0/1,-1
+accuracy_score	0.70431372549
+f1_score	0.788558609086
+precision_score	0.705115346038
+recall_score	0.894402035623
+2 class classification	1/0,-1
+accuracy_score	0.742745098039
+f1_score	0.489096573209
+precision_score	0.61568627451
+recall_score	0.405684754522
+2 class classification	-1/0,1
+accuracy_score	0.920784313725
+f1_score	0.192
+precision_score	0.521739130435
+recall_score	0.117647058824
+matrix_cross_valid
+703,76,7
+226,157,4
+68,22,12
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.690196078431
+f1_score	0.690196078431
+precision_score	0.690196078431
+recall_score	0.690196078431
+2 class classification	0/1,-1
+accuracy_score	0.713725490196
+f1_score	0.795518207283
+precision_score	0.710710710711
+recall_score	0.903307888041
+2 class classification	1/0,-1
+accuracy_score	0.746666666667
+f1_score	0.496099843994
+precision_score	0.625984251969
+recall_score	0.410852713178
+2 class classification	-1/0,1
+accuracy_score	0.92
+f1_score	0.177419354839
+precision_score	0.5
+recall_score	0.107843137255
+matrix_cross_valid
+710,69,7
+224,159,4
+65,26,11
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.690196078431
+f1_score	0.690196078431
+precision_score	0.690196078431
+recall_score	0.690196078431
+2 class classification	0/1,-1
+accuracy_score	0.716862745098
+f1_score	0.797077009556
+precision_score	0.713997985901
+recall_score	0.90203562341
+2 class classification	1/0,-1
+accuracy_score	0.74431372549
+f1_score	0.496913580247
+precision_score	0.616858237548
+recall_score	0.416020671835
+2 class classification	-1/0,1
+accuracy_score	0.919215686275
+f1_score	0.162601626016
+precision_score	0.47619047619
+recall_score	0.0980392156863
+matrix_cross_valid
+709,70,7
+222,161,4
+62,30,10
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.676862745098
+f1_score	0.676862745098
+precision_score	0.676862745098
+recall_score	0.676862745098
+2 class classification	0/1,-1
+accuracy_score	0.698039215686
+f1_score	0.786229872293
+precision_score	0.697536945813
+recall_score	0.900763358779
+2 class classification	1/0,-1
+accuracy_score	0.733333333333
+f1_score	0.463722397476
+precision_score	0.595141700405
+recall_score	0.37984496124
+2 class classification	-1/0,1
+accuracy_score	0.922352941176
+f1_score	0.139130434783
+precision_score	0.615384615385
+recall_score	0.078431372549
+matrix_cross_valid
+708,76,2
+237,147,3
+70,24,8
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.68
+f1_score	0.68
+precision_score	0.68
+recall_score	0.68
+2 class classification	0/1,-1
+accuracy_score	0.700392156863
+f1_score	0.790340285401
+precision_score	0.694980694981
+recall_score	0.916030534351
+2 class classification	1/0,-1
+accuracy_score	0.74431372549
+f1_score	0.460264900662
+precision_score	0.640552995392
+recall_score	0.359173126615
+2 class classification	-1/0,1
+accuracy_score	0.915294117647
+f1_score	0.129032258065
+precision_score	0.363636363636
+recall_score	0.078431372549
+matrix_cross_valid
+720,55,11
+245,139,3
+71,23,8
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.694901960784
+f1_score	0.694901960784
+precision_score	0.694901960784
+recall_score	0.694901960784
+2 class classification	0/1,-1
+accuracy_score	0.716862745098
+f1_score	0.796390298928
+precision_score	0.715298885512
+recall_score	0.898218829517
+2 class classification	1/0,-1
+accuracy_score	0.754509803922
+f1_score	0.523592085236
+precision_score	0.637037037037
+recall_score	0.444444444444
+2 class classification	-1/0,1
+accuracy_score	0.918431372549
+f1_score	0.133333333333
+precision_score	0.444444444444
+recall_score	0.078431372549
+matrix_cross_valid
+706,76,4
+209,172,6
+72,22,8
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.682352941176
+f1_score	0.682352941176
+precision_score	0.682352941176
+recall_score	0.682352941176
+2 class classification	0/1,-1
+accuracy_score	0.701176470588
+f1_score	0.786315199103
+precision_score	0.703109327984
+recall_score	0.891857506361
+2 class classification	1/0,-1
+accuracy_score	0.743529411765
+f1_score	0.491446345257
+precision_score	0.6171875
+recall_score	0.40826873385
+2 class classification	-1/0,1
+accuracy_score	0.92
+f1_score	0.177419354839
+precision_score	0.5
+recall_score	0.107843137255
+matrix_cross_valid
+701,80,5
+223,158,6
+73,18,11
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.687843137255
+f1_score	0.687843137255
+precision_score	0.687843137255
+recall_score	0.687843137255
+2 class classification	0/1,-1
+accuracy_score	0.715294117647
+f1_score	0.796638655462
+precision_score	0.711711711712
+recall_score	0.904580152672
+2 class classification	1/0,-1
+accuracy_score	0.747450980392
+f1_score	0.501547987616
+precision_score	0.625482625483
+recall_score	0.418604651163
+2 class classification	-1/0,1
+accuracy_score	0.912941176471
+f1_score	0.0672268907563
+precision_score	0.235294117647
+recall_score	0.0392156862745
+matrix_cross_valid
+711,69,6
+218,162,7
+70,28,4
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.703529411765
+f1_score	0.703529411765
+precision_score	0.703529411765
+recall_score	0.703529411765
+2 class classification	0/1,-1
+accuracy_score	0.723137254902
+f1_score	0.803561491375
+precision_score	0.714144411474
+recall_score	0.918575063613
+2 class classification	1/0,-1
+accuracy_score	0.762352941176
+f1_score	0.524332810047
+precision_score	0.668
+recall_score	0.431524547804
+2 class classification	-1/0,1
+accuracy_score	0.921568627451
+f1_score	0.137931034483
+precision_score	0.571428571429
+recall_score	0.078431372549
+matrix_cross_valid
+722,62,2
+216,167,4
+73,21,8
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.691764705882
+f1_score	0.691764705882
+precision_score	0.691764705882
+recall_score	0.691764705882
+2 class classification	0/1,-1
+accuracy_score	0.71137254902
+f1_score	0.79418344519
+precision_score	0.708582834331
+recall_score	0.903307888041
+2 class classification	1/0,-1
+accuracy_score	0.748235294118
+f1_score	0.502325581395
+precision_score	0.627906976744
+recall_score	0.418604651163
+2 class classification	-1/0,1
+accuracy_score	0.923921568627
+f1_score	0.17094017094
+precision_score	0.666666666667
+recall_score	0.0980392156863
+matrix_cross_valid
+710,74,2
+222,162,3
+70,22,10
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.690196078431
+f1_score	0.690196078431
+precision_score	0.690196078431
+recall_score	0.690196078431
+2 class classification	0/1,-1
+accuracy_score	0.712156862745
+f1_score	0.793704328274
+precision_score	0.710976837865
+recall_score	0.898218829517
+2 class classification	1/0,-1
+accuracy_score	0.747450980392
+f1_score	0.507645259939
+precision_score	0.621722846442
+recall_score	0.428940568475
+2 class classification	-1/0,1
+accuracy_score	0.920784313725
+f1_score	0.136752136752
+precision_score	0.533333333333
+recall_score	0.078431372549
+matrix_cross_valid
+706,76,4
+218,166,3
+69,25,8
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.673725490196
+f1_score	0.673725490196
+precision_score	0.673725490196
+recall_score	0.673725490196
+2 class classification	0/1,-1
+accuracy_score	0.691764705882
+f1_score	0.780078343593
+precision_score	0.696303696304
+recall_score	0.886768447837
+2 class classification	1/0,-1
+accuracy_score	0.73568627451
+f1_score	0.474258970359
+precision_score	0.59842519685
+recall_score	0.392764857881
+2 class classification	-1/0,1
+accuracy_score	0.92
+f1_score	0.16393442623
+precision_score	0.5
+recall_score	0.0980392156863
+matrix_cross_valid
+697,80,9
+234,152,1
+70,22,10
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.669019607843
+f1_score	0.669019607843
+precision_score	0.669019607843
+recall_score	0.669019607843
+2 class classification	0/1,-1
+accuracy_score	0.686274509804
+f1_score	0.78021978022
+precision_score	0.68665377176
+recall_score	0.903307888041
+2 class classification	1/0,-1
+accuracy_score	0.732549019608
+f1_score	0.445528455285
+precision_score	0.600877192982
+recall_score	0.354005167959
+2 class classification	-1/0,1
+accuracy_score	0.919215686275
+f1_score	0.104347826087
+precision_score	0.461538461538
+recall_score	0.0588235294118
+matrix_cross_valid
+710,74,2
+245,137,5
+79,17,6
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.683921568627
+f1_score	0.683921568627
+precision_score	0.683921568627
+recall_score	0.683921568627
+2 class classification	0/1,-1
+accuracy_score	0.697254901961
+f1_score	0.784598214286
+precision_score	0.698807157058
+recall_score	0.894402035623
+2 class classification	1/0,-1
+accuracy_score	0.749803921569
+f1_score	0.499215070644
+precision_score	0.636
+recall_score	0.410852713178
+2 class classification	-1/0,1
+accuracy_score	0.920784313725
+f1_score	0.165289256198
+precision_score	0.526315789474
+recall_score	0.0980392156863
+matrix_cross_valid
+703,78,5
+224,159,4
+79,13,10
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.687058823529
+f1_score	0.687058823529
+precision_score	0.687058823529
+recall_score	0.687058823529
+2 class classification	0/1,-1
+accuracy_score	0.709803921569
+f1_score	0.790486976217
+precision_score	0.712244897959
+recall_score	0.888040712468
+2 class classification	1/0,-1
+accuracy_score	0.741960784314
+f1_score	0.50822122571
+precision_score	0.602836879433
+recall_score	0.439276485788
+2 class classification	-1/0,1
+accuracy_score	0.922352941176
+f1_score	0.139130434783
+precision_score	0.615384615385
+recall_score	0.078431372549
+matrix_cross_valid
+698,84,4
+216,170,1
+66,28,8
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.672156862745
+f1_score	0.672156862745
+precision_score	0.672156862745
+recall_score	0.672156862745
+2 class classification	0/1,-1
+accuracy_score	0.691764705882
+f1_score	0.78347107438
+precision_score	0.690962099125
+recall_score	0.904580152672
+2 class classification	1/0,-1
+accuracy_score	0.740392156863
+f1_score	0.461788617886
+precision_score	0.622807017544
+recall_score	0.366925064599
+2 class classification	-1/0,1
+accuracy_score	0.912156862745
+f1_score	0.0666666666667
+precision_score	0.222222222222
+recall_score	0.0392156862745
+matrix_cross_valid
+711,66,9
+240,142,5
+78,20,4
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.683921568627
+f1_score	0.683921568627
+precision_score	0.683921568627
+recall_score	0.683921568627
+2 class classification	0/1,-1
+accuracy_score	0.705098039216
+f1_score	0.789944134078
+precision_score	0.704183266932
+recall_score	0.899491094148
+2 class classification	1/0,-1
+accuracy_score	0.74431372549
+f1_score	0.485804416404
+precision_score	0.623481781377
+recall_score	0.397932816537
+2 class classification	-1/0,1
+accuracy_score	0.918431372549
+f1_score	0.174603174603
+precision_score	0.458333333333
+recall_score	0.107843137255
+matrix_cross_valid
+707,72,7
+227,154,6
+70,21,11
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.69568627451
+f1_score	0.69568627451
+precision_score	0.69568627451
+recall_score	0.69568627451
+2 class classification	0/1,-1
+accuracy_score	0.709019607843
+f1_score	0.793774319066
+precision_score	0.704837117473
+recall_score	0.908396946565
+2 class classification	1/0,-1
+accuracy_score	0.758431372549
+f1_score	0.514195583596
+precision_score	0.65991902834
+recall_score	0.421188630491
+2 class classification	-1/0,1
+accuracy_score	0.923921568627
+f1_score	0.17094017094
+precision_score	0.666666666667
+recall_score	0.0980392156863
+matrix_cross_valid
+714,68,4
+223,163,1
+76,16,10
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.684705882353
+f1_score	0.684705882353
+precision_score	0.684705882353
+recall_score	0.684705882353
+2 class classification	0/1,-1
+accuracy_score	0.712156862745
+f1_score	0.79645036051
+precision_score	0.705998033432
+recall_score	0.913486005089
+2 class classification	1/0,-1
+accuracy_score	0.739607843137
+f1_score	0.4696485623
+precision_score	0.615062761506
+recall_score	0.37984496124
+2 class classification	-1/0,1
+accuracy_score	0.917647058824
+f1_score	0.132231404959
+precision_score	0.421052631579
+recall_score	0.078431372549
+matrix_cross_valid
+718,66,2
+231,147,9
+68,26,8
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.693333333333
+f1_score	0.693333333333
+precision_score	0.693333333333
+recall_score	0.693333333333
+2 class classification	0/1,-1
+accuracy_score	0.712156862745
+f1_score	0.792538157151
+precision_score	0.713123092574
+recall_score	0.891857506361
+2 class classification	1/0,-1
+accuracy_score	0.755294117647
+f1_score	0.531531531532
+precision_score	0.634408602151
+recall_score	0.457364341085
+2 class classification	-1/0,1
+accuracy_score	0.919215686275
+f1_score	0.104347826087
+precision_score	0.461538461538
+recall_score	0.0588235294118
+matrix_cross_valid
+701,82,3
+206,177,4
+76,20,6
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.691764705882
+f1_score	0.691764705882
+precision_score	0.691764705882
+recall_score	0.691764705882
+2 class classification	0/1,-1
+accuracy_score	0.707450980392
+f1_score	0.794036443954
+precision_score	0.701463414634
+recall_score	0.91475826972
+2 class classification	1/0,-1
+accuracy_score	0.753725490196
+f1_score	0.495176848875
+precision_score	0.655319148936
+recall_score	0.397932816537
+2 class classification	-1/0,1
+accuracy_score	0.922352941176
+f1_score	0.153846153846
+precision_score	0.6
+recall_score	0.0882352941176
+matrix_cross_valid
+719,65,2
+229,154,4
+77,16,9
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.692549019608
+f1_score	0.692549019608
+precision_score	0.692549019608
+recall_score	0.692549019608
+2 class classification	0/1,-1
+accuracy_score	0.714509803922
+f1_score	0.794813979707
+precision_score	0.713562753036
+recall_score	0.896946564885
+2 class classification	1/0,-1
+accuracy_score	0.745098039216
+f1_score	0.506828528073
+precision_score	0.613970588235
+recall_score	0.431524547804
+2 class classification	-1/0,1
+accuracy_score	0.925490196078
+f1_score	0.188034188034
+precision_score	0.733333333333
+recall_score	0.107843137255
+matrix_cross_valid
+705,80,1
+217,167,3
+66,25,11
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.687058823529
+f1_score	0.687058823529
+precision_score	0.687058823529
+recall_score	0.687058823529
+2 class classification	0/1,-1
+accuracy_score	0.697254901961
+f1_score	0.785793562708
+precision_score	0.696850393701
+recall_score	0.900763358779
+2 class classification	1/0,-1
+accuracy_score	0.746666666667
+f1_score	0.488114104596
+precision_score	0.631147540984
+recall_score	0.397932816537
+2 class classification	-1/0,1
+accuracy_score	0.930196078431
+f1_score	0.239316239316
+precision_score	0.933333333333
+recall_score	0.137254901961
+matrix_cross_valid
+708,77,1
+233,154,0
+75,13,14
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.685490196078
+f1_score	0.685490196078
+precision_score	0.685490196078
+recall_score	0.685490196078
+2 class classification	0/1,-1
+accuracy_score	0.712156862745
+f1_score	0.79159568427
+precision_score	0.714871794872
+recall_score	0.886768447837
+2 class classification	1/0,-1
+accuracy_score	0.746666666667
+f1_score	0.506870229008
+precision_score	0.619402985075
+recall_score	0.428940568475
+2 class classification	-1/0,1
+accuracy_score	0.912156862745
+f1_score	0.164179104478
+precision_score	0.34375
+recall_score	0.107843137255
+matrix_cross_valid
+697,75,14
+214,166,7
+64,27,11
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.687058823529
+f1_score	0.687058823529
+precision_score	0.687058823529
+recall_score	0.687058823529
+2 class classification	0/1,-1
+accuracy_score	0.705098039216
+f1_score	0.789001122334
+precision_score	0.705823293173
+recall_score	0.894402035623
+2 class classification	1/0,-1
+accuracy_score	0.745882352941
+f1_score	0.504587155963
+precision_score	0.61797752809
+recall_score	0.426356589147
+2 class classification	-1/0,1
+accuracy_score	0.923137254902
+f1_score	0.140350877193
+precision_score	0.666666666667
+recall_score	0.078431372549
+matrix_cross_valid
+703,81,2
+220,165,2
+73,21,8
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.665098039216
+f1_score	0.665098039216
+precision_score	0.665098039216
+recall_score	0.665098039216
+2 class classification	0/1,-1
+accuracy_score	0.685490196078
+f1_score	0.774084507042
+precision_score	0.694641051567
+recall_score	0.874045801527
+2 class classification	1/0,-1
+accuracy_score	0.723921568627
+f1_score	0.461773700306
+precision_score	0.565543071161
+recall_score	0.390180878553
+2 class classification	-1/0,1
+accuracy_score	0.920784313725
+f1_score	0.165289256198
+precision_score	0.526315789474
+recall_score	0.0980392156863
+matrix_cross_valid
+687,93,6
+233,151,3
+69,23,10
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.700392156863
+f1_score	0.700392156863
+precision_score	0.700392156863
+recall_score	0.700392156863
+2 class classification	0/1,-1
+accuracy_score	0.719215686275
+f1_score	0.800668151448
+precision_score	0.711881188119
+recall_score	0.91475826972
+2 class classification	1/0,-1
+accuracy_score	0.761568627451
+f1_score	0.525
+precision_score	0.664031620553
+recall_score	0.434108527132
+2 class classification	-1/0,1
+accuracy_score	0.92
+f1_score	0.105263157895
+precision_score	0.5
+recall_score	0.0588235294118
+matrix_cross_valid
+719,64,3
+216,168,3
+75,21,6
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.670588235294
+f1_score	0.670588235294
+precision_score	0.670588235294
+recall_score	0.670588235294
+2 class classification	0/1,-1
+accuracy_score	0.690980392157
+f1_score	0.780867630701
+precision_score	0.693675889328
+recall_score	0.893129770992
+2 class classification	1/0,-1
+accuracy_score	0.731764705882
+f1_score	0.462264150943
+precision_score	0.590361445783
+recall_score	0.37984496124
+2 class classification	-1/0,1
+accuracy_score	0.918431372549
+f1_score	0.103448275862
+precision_score	0.428571428571
+recall_score	0.0588235294118
+matrix_cross_valid
+702,81,3
+235,147,5
+75,21,6
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.679215686275
+f1_score	0.679215686275
+precision_score	0.679215686275
+recall_score	0.679215686275
+2 class classification	0/1,-1
+accuracy_score	0.701176470588
+f1_score	0.786554621849
+precision_score	0.702702702703
+recall_score	0.893129770992
+2 class classification	1/0,-1
+accuracy_score	0.739607843137
+f1_score	0.484472049689
+precision_score	0.607003891051
+recall_score	0.403100775194
+2 class classification	-1/0,1
+accuracy_score	0.917647058824
+f1_score	0.132231404959
+precision_score	0.421052631579
+recall_score	0.078431372549
+matrix_cross_valid
+702,75,9
+229,156,2
+68,26,8
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.697254901961
+f1_score	0.697254901961
+precision_score	0.697254901961
+recall_score	0.697254901961
+2 class classification	0/1,-1
+accuracy_score	0.721568627451
+f1_score	0.801565120179
+precision_score	0.714855433699
+recall_score	0.912213740458
+2 class classification	1/0,-1
+accuracy_score	0.758431372549
+f1_score	0.51572327044
+precision_score	0.658634538153
+recall_score	0.423772609819
+2 class classification	-1/0,1
+accuracy_score	0.914509803922
+f1_score	0.128
+precision_score	0.347826086957
+recall_score	0.078431372549
+matrix_cross_valid
+717,63,6
+214,164,9
+72,22,8
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.690196078431
+f1_score	0.690196078431
+precision_score	0.690196078431
+recall_score	0.690196078431
+2 class classification	0/1,-1
+accuracy_score	0.705098039216
+f1_score	0.790178571429
+precision_score	0.703777335984
+recall_score	0.900763358779
+2 class classification	1/0,-1
+accuracy_score	0.756078431373
+f1_score	0.50868878357
+precision_score	0.654471544715
+recall_score	0.416020671835
+2 class classification	-1/0,1
+accuracy_score	0.919215686275
+f1_score	0.176
+precision_score	0.478260869565
+recall_score	0.107843137255
+matrix_cross_valid
+708,69,9
+223,161,3
+75,16,11
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.698039215686
+f1_score	0.698039215686
+precision_score	0.698039215686
+recall_score	0.698039215686
+2 class classification	0/1,-1
+accuracy_score	0.712156862745
+f1_score	0.795543175487
+precision_score	0.707631318137
+recall_score	0.908396946565
+2 class classification	1/0,-1
+accuracy_score	0.764705882353
+f1_score	0.525316455696
+precision_score	0.677551020408
+recall_score	0.428940568475
+2 class classification	-1/0,1
+accuracy_score	0.919215686275
+f1_score	0.162601626016
+precision_score	0.47619047619
+recall_score	0.0980392156863
+matrix_cross_valid
+714,66,6
+216,166,5
+79,13,10
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.68
+f1_score	0.68
+precision_score	0.68
+recall_score	0.68
+2 class classification	0/1,-1
+accuracy_score	0.709019607843
+f1_score	0.791221159257
+precision_score	0.709384460141
+recall_score	0.894402035623
+2 class classification	1/0,-1
+accuracy_score	0.739607843137
+f1_score	0.489230769231
+precision_score	0.604562737643
+recall_score	0.410852713178
+2 class classification	-1/0,1
+accuracy_score	0.91137254902
+f1_score	0.0813008130081
+precision_score	0.238095238095
+recall_score	0.0490196078431
+matrix_cross_valid
+703,77,6
+218,159,10
+70,27,5
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.689411764706
+f1_score	0.689411764706
+precision_score	0.689411764706
+recall_score	0.689411764706
+2 class classification	0/1,-1
+accuracy_score	0.712941176471
+f1_score	0.792986425339
+precision_score	0.713849287169
+recall_score	0.891857506361
+2 class classification	1/0,-1
+accuracy_score	0.749019607843
+f1_score	0.516616314199
+precision_score	0.621818181818
+recall_score	0.441860465116
+2 class classification	-1/0,1
+accuracy_score	0.916862745098
+f1_score	0.116666666667
+precision_score	0.388888888889
+recall_score	0.0686274509804
+matrix_cross_valid
+701,80,5
+210,171,6
+71,24,7
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.665882352941
+f1_score	0.665882352941
+precision_score	0.665882352941
+recall_score	0.665882352941
+2 class classification	0/1,-1
+accuracy_score	0.687843137255
+f1_score	0.773090079818
+precision_score	0.70041322314
+recall_score	0.862595419847
+2 class classification	1/0,-1
+accuracy_score	0.727843137255
+f1_score	0.482861400894
+precision_score	0.570422535211
+recall_score	0.418604651163
+2 class classification	-1/0,1
+accuracy_score	0.916078431373
+f1_score	0.144
+precision_score	0.391304347826
+recall_score	0.0882352941176
+matrix_cross_valid
+678,98,10
+221,162,4
+69,24,9
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.680784313725
+f1_score	0.680784313725
+precision_score	0.680784313725
+recall_score	0.680784313725
+2 class classification	0/1,-1
+accuracy_score	0.701960784314
+f1_score	0.787946428571
+precision_score	0.701789264414
+recall_score	0.898218829517
+2 class classification	1/0,-1
+accuracy_score	0.740392156863
+f1_score	0.475435816165
+precision_score	0.614754098361
+recall_score	0.387596899225
+2 class classification	-1/0,1
+accuracy_score	0.919215686275
+f1_score	0.188976377953
+precision_score	0.48
+recall_score	0.117647058824
+matrix_cross_valid
+706,72,8
+232,150,5
+68,22,12
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.68862745098
+f1_score	0.68862745098
+precision_score	0.68862745098
+recall_score	0.68862745098
+2 class classification	0/1,-1
+accuracy_score	0.708235294118
+f1_score	0.793562708102
+precision_score	0.70374015748
+recall_score	0.909669211196
+2 class classification	1/0,-1
+accuracy_score	0.747450980392
+f1_score	0.485623003195
+precision_score	0.635983263598
+recall_score	0.392764857881
+2 class classification	-1/0,1
+accuracy_score	0.921568627451
+f1_score	0.180327868852
+precision_score	0.55
+recall_score	0.107843137255
+matrix_cross_valid
+715,67,4
+230,152,5
+71,20,11
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.669803921569
+f1_score	0.669803921569
+precision_score	0.669803921569
+recall_score	0.669803921569
+2 class classification	0/1,-1
+accuracy_score	0.697254901961
+f1_score	0.782902137233
+precision_score	0.701612903226
+recall_score	0.885496183206
+2 class classification	1/0,-1
+accuracy_score	0.729411764706
+f1_score	0.458398744113
+precision_score	0.584
+recall_score	0.377260981912
+2 class classification	-1/0,1
+accuracy_score	0.912941176471
+f1_score	0.177777777778
+precision_score	0.363636363636
+recall_score	0.117647058824
+matrix_cross_valid
+696,81,9
+229,146,12
+67,23,12
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.687843137255
+f1_score	0.687843137255
+precision_score	0.687843137255
+recall_score	0.687843137255
+2 class classification	0/1,-1
+accuracy_score	0.706666666667
+f1_score	0.792912513843
+precision_score	0.701960784314
+recall_score	0.910941475827
+2 class classification	1/0,-1
+accuracy_score	0.749803921569
+f1_score	0.481300813008
+precision_score	0.649122807018
+recall_score	0.382428940568
+2 class classification	-1/0,1
+accuracy_score	0.919215686275
+f1_score	0.201550387597
+precision_score	0.481481481481
+recall_score	0.127450980392
+matrix_cross_valid
+716,61,9
+234,148,5
+70,19,13
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.680784313725
+f1_score	0.680784313725
+precision_score	0.680784313725
+recall_score	0.680784313725
+2 class classification	0/1,-1
+accuracy_score	0.698039215686
+f1_score	0.785754034502
+precision_score	0.698318496538
+recall_score	0.898218829517
+2 class classification	1/0,-1
+accuracy_score	0.741960784314
+f1_score	0.483516483516
+precision_score	0.616
+recall_score	0.397932816537
+2 class classification	-1/0,1
+accuracy_score	0.921568627451
+f1_score	0.137931034483
+precision_score	0.571428571429
+recall_score	0.078431372549
+matrix_cross_valid
+706,78,2
+229,154,4
+76,18,8
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.685490196078
+f1_score	0.685490196078
+precision_score	0.685490196078
+recall_score	0.685490196078
+2 class classification	0/1,-1
+accuracy_score	0.710588235294
+f1_score	0.79534109817
+precision_score	0.705014749263
+recall_score	0.912213740458
+2 class classification	1/0,-1
+accuracy_score	0.739607843137
+f1_score	0.476340694006
+precision_score	0.611336032389
+recall_score	0.390180878553
+2 class classification	-1/0,1
+accuracy_score	0.920784313725
+f1_score	0.106194690265
+precision_score	0.545454545455
+recall_score	0.0588235294118
+matrix_cross_valid
+717,67,2
+233,151,3
+67,29,6
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.678431372549
+f1_score	0.678431372549
+precision_score	0.678431372549
+recall_score	0.678431372549
+2 class classification	0/1,-1
+accuracy_score	0.696470588235
+f1_score	0.784401114206
+precision_score	0.697720515362
+recall_score	0.895674300254
+2 class classification	1/0,-1
+accuracy_score	0.736470588235
+f1_score	0.476635514019
+precision_score	0.6
+recall_score	0.395348837209
+2 class classification	-1/0,1
+accuracy_score	0.923921568627
+f1_score	0.141592920354
+precision_score	0.727272727273
+recall_score	0.078431372549
+matrix_cross_valid
+704,81,1
+232,153,2
+73,21,8
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.685490196078
+f1_score	0.685490196078
+precision_score	0.685490196078
+recall_score	0.685490196078
+2 class classification	0/1,-1
+accuracy_score	0.702745098039
+f1_score	0.789794786467
+precision_score	0.700098328417
+recall_score	0.905852417303
+2 class classification	1/0,-1
+accuracy_score	0.742745098039
+f1_score	0.474358974359
+precision_score	0.62447257384
+recall_score	0.382428940568
+2 class classification	-1/0,1
+accuracy_score	0.925490196078
+f1_score	0.227642276423
+precision_score	0.666666666667
+recall_score	0.137254901961
+matrix_cross_valid
+712,69,5
+237,148,2
+68,20,14
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.680784313725
+f1_score	0.680784313725
+precision_score	0.680784313725
+recall_score	0.680784313725
+2 class classification	0/1,-1
+accuracy_score	0.701176470588
+f1_score	0.789851075565
+precision_score	0.69717624148
+recall_score	0.910941475827
+2 class classification	1/0,-1
+accuracy_score	0.737254901961
+f1_score	0.453507340946
+precision_score	0.615044247788
+recall_score	0.359173126615
+2 class classification	-1/0,1
+accuracy_score	0.923137254902
+f1_score	0.209677419355
+precision_score	0.590909090909
+recall_score	0.127450980392
+matrix_cross_valid
+716,66,4
+243,139,5
+68,21,13
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.675294117647
+f1_score	0.675294117647
+precision_score	0.675294117647
+recall_score	0.675294117647
+2 class classification	0/1,-1
+accuracy_score	0.697254901961
+f1_score	0.788144895719
+precision_score	0.69305019305
+recall_score	0.913486005089
+2 class classification	1/0,-1
+accuracy_score	0.734117647059
+f1_score	0.445171849427
+precision_score	0.607142857143
+recall_score	0.35142118863
+2 class classification	-1/0,1
+accuracy_score	0.919215686275
+f1_score	0.119658119658
+precision_score	0.466666666667
+recall_score	0.0686274509804
+matrix_cross_valid
+718,65,3
+246,136,5
+72,23,7
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.694117647059
+f1_score	0.694117647059
+precision_score	0.694117647059
+recall_score	0.694117647059
+2 class classification	0/1,-1
+accuracy_score	0.713725490196
+f1_score	0.795058955643
+precision_score	0.711557788945
+recall_score	0.900763358779
+2 class classification	1/0,-1
+accuracy_score	0.752941176471
+f1_score	0.522003034901
+precision_score	0.632352941176
+recall_score	0.444444444444
+2 class classification	-1/0,1
+accuracy_score	0.921568627451
+f1_score	0.0909090909091
+precision_score	0.625
+recall_score	0.0490196078431
+matrix_cross_valid
+708,76,2
+214,172,1
+73,24,5
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.679215686275
+f1_score	0.679215686275
+precision_score	0.679215686275
+recall_score	0.679215686275
+2 class classification	0/1,-1
+accuracy_score	0.702745098039
+f1_score	0.790027700831
+precision_score	0.699705593719
+recall_score	0.907124681934
+2 class classification	1/0,-1
+accuracy_score	0.733333333333
+f1_score	0.462025316456
+precision_score	0.595918367347
+recall_score	0.377260981912
+2 class classification	-1/0,1
+accuracy_score	0.922352941176
+f1_score	0.12389380531
+precision_score	0.636363636364
+recall_score	0.0686274509804
+matrix_cross_valid
+713,71,2
+239,146,2
+67,28,7
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.682352941176
+f1_score	0.682352941176
+precision_score	0.682352941176
+recall_score	0.682352941176
+2 class classification	0/1,-1
+accuracy_score	0.706666666667
+f1_score	0.787741203178
+precision_score	0.71106557377
+recall_score	0.882951653944
+2 class classification	1/0,-1
+accuracy_score	0.734117647059
+f1_score	0.49478390462
+precision_score	0.584507042254
+recall_score	0.428940568475
+2 class classification	-1/0,1
+accuracy_score	0.923921568627
+f1_score	0.17094017094
+precision_score	0.666666666667
+recall_score	0.0980392156863
+matrix_cross_valid
+694,91,1
+217,166,4
+65,27,10
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.67137254902
+f1_score	0.67137254902
+precision_score	0.67137254902
+recall_score	0.67137254902
+2 class classification	0/1,-1
+accuracy_score	0.687843137255
+f1_score	0.780110497238
+precision_score	0.689453125
+recall_score	0.898218829517
+2 class classification	1/0,-1
+accuracy_score	0.740392156863
+f1_score	0.461788617886
+precision_score	0.622807017544
+recall_score	0.366925064599
+2 class classification	-1/0,1
+accuracy_score	0.914509803922
+f1_score	0.128
+precision_score	0.347826086957
+recall_score	0.078431372549
+matrix_cross_valid
+706,69,11
+241,142,4
+77,17,8
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.679215686275
+f1_score	0.679215686275
+precision_score	0.679215686275
+recall_score	0.679215686275
+2 class classification	0/1,-1
+accuracy_score	0.697254901961
+f1_score	0.786504424779
+precision_score	0.695694716243
+recall_score	0.904580152672
+2 class classification	1/0,-1
+accuracy_score	0.741176470588
+f1_score	0.469453376206
+precision_score	0.621276595745
+recall_score	0.377260981912
+2 class classification	-1/0,1
+accuracy_score	0.92
+f1_score	0.15
+precision_score	0.5
+recall_score	0.0882352941176
+matrix_cross_valid
+711,70,5
+237,146,4
+74,19,9
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.665098039216
+f1_score	0.665098039216
+precision_score	0.665098039216
+recall_score	0.665098039216
+2 class classification	0/1,-1
+accuracy_score	0.690196078431
+f1_score	0.780433574208
+precision_score	0.692991115499
+recall_score	0.893129770992
+2 class classification	1/0,-1
+accuracy_score	0.717647058824
+f1_score	0.424920127796
+precision_score	0.556485355649
+recall_score	0.343669250646
+2 class classification	-1/0,1
+accuracy_score	0.922352941176
+f1_score	0.208
+precision_score	0.565217391304
+recall_score	0.127450980392
+matrix_cross_valid
+702,81,3
+247,133,7
+64,25,13
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.690196078431
+f1_score	0.690196078431
+precision_score	0.690196078431
+recall_score	0.690196078431
+2 class classification	0/1,-1
+accuracy_score	0.71137254902
+f1_score	0.790909090909
+precision_score	0.714579055441
+recall_score	0.885496183206
+2 class classification	1/0,-1
+accuracy_score	0.742745098039
+f1_score	0.510447761194
+precision_score	0.604240282686
+recall_score	0.441860465116
+2 class classification	-1/0,1
+accuracy_score	0.926274509804
+f1_score	0.216666666667
+precision_score	0.722222222222
+recall_score	0.127450980392
+matrix_cross_valid
+696,89,1
+212,171,4
+66,23,13
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.675294117647
+f1_score	0.675294117647
+precision_score	0.675294117647
+recall_score	0.675294117647
+2 class classification	0/1,-1
+accuracy_score	0.696470588235
+f1_score	0.781971830986
+precision_score	0.701718907988
+recall_score	0.882951653944
+2 class classification	1/0,-1
+accuracy_score	0.729411764706
+f1_score	0.468412942989
+precision_score	0.580152671756
+recall_score	0.392764857881
+2 class classification	-1/0,1
+accuracy_score	0.924705882353
+f1_score	0.238095238095
+precision_score	0.625
+recall_score	0.147058823529
+matrix_cross_valid
+694,85,7
+233,152,2
+62,25,15
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.690196078431
+f1_score	0.690196078431
+precision_score	0.690196078431
+recall_score	0.690196078431
+2 class classification	0/1,-1
+accuracy_score	0.709803921569
+f1_score	0.7907239819
+precision_score	0.711812627291
+recall_score	0.889312977099
+2 class classification	1/0,-1
+accuracy_score	0.747450980392
+f1_score	0.506134969325
+precision_score	0.622641509434
+recall_score	0.426356589147
+2 class classification	-1/0,1
+accuracy_score	0.923137254902
+f1_score	0.246153846154
+precision_score	0.571428571429
+recall_score	0.156862745098
+matrix_cross_valid
+699,81,6
+216,165,6
+67,19,16
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.666666666667
+f1_score	0.666666666667
+precision_score	0.666666666667
+recall_score	0.666666666667
+2 class classification	0/1,-1
+accuracy_score	0.690980392157
+f1_score	0.777652370203
+precision_score	0.69878296146
+recall_score	0.876590330789
+2 class classification	1/0,-1
+accuracy_score	0.723137254902
+f1_score	0.464339908953
+precision_score	0.5625
+recall_score	0.395348837209
+2 class classification	-1/0,1
+accuracy_score	0.919215686275
+f1_score	0.134453781513
+precision_score	0.470588235294
+recall_score	0.078431372549
+matrix_cross_valid
+689,91,6
+231,153,3
+66,28,8
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.673725490196
+f1_score	0.673725490196
+precision_score	0.673725490196
+recall_score	0.673725490196
+2 class classification	0/1,-1
+accuracy_score	0.690196078431
+f1_score	0.781647318961
+precision_score	0.69110459433
+recall_score	0.899491094148
+2 class classification	1/0,-1
+accuracy_score	0.734117647059
+f1_score	0.462757527734
+precision_score	0.598360655738
+recall_score	0.377260981912
+2 class classification	-1/0,1
+accuracy_score	0.923137254902
+f1_score	0.109090909091
+precision_score	0.75
+recall_score	0.0588235294118
+matrix_cross_valid
+707,79,0
+239,146,2
+77,19,6
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.681568627451
+f1_score	0.681568627451
+precision_score	0.681568627451
+recall_score	0.681568627451
+2 class classification	0/1,-1
+accuracy_score	0.702745098039
+f1_score	0.785754663652
+precision_score	0.707019328586
+recall_score	0.884223918575
+2 class classification	1/0,-1
+accuracy_score	0.742745098039
+f1_score	0.496932515337
+precision_score	0.611320754717
+recall_score	0.418604651163
+2 class classification	-1/0,1
+accuracy_score	0.917647058824
+f1_score	0.186046511628
+precision_score	0.444444444444
+recall_score	0.117647058824
+matrix_cross_valid
+695,78,13
+223,162,2
+65,25,12
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.702745098039
+f1_score	0.702745098039
+precision_score	0.702745098039
+recall_score	0.702745098039
+2 class classification	0/1,-1
+accuracy_score	0.722352941176
+f1_score	0.801569506726
+precision_score	0.716432865731
+recall_score	0.909669211196
+2 class classification	1/0,-1
+accuracy_score	0.760784313725
+f1_score	0.528593508501
+precision_score	0.657692307692
+recall_score	0.441860465116
+2 class classification	-1/0,1
+accuracy_score	0.922352941176
+f1_score	0.168067226891
+precision_score	0.588235294118
+recall_score	0.0980392156863
+matrix_cross_valid
+715,66,5
+214,171,2
+69,23,10
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.687843137255
+f1_score	0.687843137255
+precision_score	0.687843137255
+recall_score	0.687843137255
+2 class classification	0/1,-1
+accuracy_score	0.705882352941
+f1_score	0.796084828711
+precision_score	0.695156695157
+recall_score	0.931297709924
+2 class classification	1/0,-1
+accuracy_score	0.748235294118
+f1_score	0.460504201681
+precision_score	0.658653846154
+recall_score	0.354005167959
+2 class classification	-1/0,1
+accuracy_score	0.921568627451
+f1_score	0.137931034483
+precision_score	0.571428571429
+recall_score	0.078431372549
+matrix_cross_valid
+732,52,2
+246,137,4
+75,19,8
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.698823529412
+f1_score	0.698823529412
+precision_score	0.698823529412
+recall_score	0.698823529412
+2 class classification	0/1,-1
+accuracy_score	0.716862745098
+f1_score	0.798885793872
+precision_score	0.710604558969
+recall_score	0.912213740458
+2 class classification	1/0,-1
+accuracy_score	0.763137254902
+f1_score	0.520634920635
+precision_score	0.674897119342
+recall_score	0.423772609819
+2 class classification	-1/0,1
+accuracy_score	0.917647058824
+f1_score	0.16
+precision_score	0.434782608696
+recall_score	0.0980392156863
+matrix_cross_valid
+717,60,9
+219,164,4
+73,19,10
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.676078431373
+f1_score	0.676078431373
+precision_score	0.676078431373
+recall_score	0.676078431373
+2 class classification	0/1,-1
+accuracy_score	0.700392156863
+f1_score	0.787777777778
+precision_score	0.699211045365
+recall_score	0.90203562341
+2 class classification	1/0,-1
+accuracy_score	0.729411764706
+f1_score	0.451510333863
+precision_score	0.586776859504
+recall_score	0.366925064599
+2 class classification	-1/0,1
+accuracy_score	0.922352941176
+f1_score	0.181818181818
+precision_score	0.578947368421
+recall_score	0.107843137255
+matrix_cross_valid
+709,72,5
+242,142,3
+63,28,11
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.690980392157
+f1_score	0.690980392157
+precision_score	0.690980392157
+recall_score	0.690980392157
+2 class classification	0/1,-1
+accuracy_score	0.70431372549
+f1_score	0.789737869492
+precision_score	0.703078450844
+recall_score	0.900763358779
+2 class classification	1/0,-1
+accuracy_score	0.758431372549
+f1_score	0.51875
+precision_score	0.656126482213
+recall_score	0.428940568475
+2 class classification	-1/0,1
+accuracy_score	0.919215686275
+f1_score	0.119658119658
+precision_score	0.466666666667
+recall_score	0.0686274509804
+matrix_cross_valid
+708,75,3
+216,166,5
+83,12,7
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.673725490196
+f1_score	0.673725490196
+precision_score	0.673725490196
+recall_score	0.673725490196
+2 class classification	0/1,-1
+accuracy_score	0.697254901961
+f1_score	0.78531701891
+precision_score	0.697628458498
+recall_score	0.898218829517
+2 class classification	1/0,-1
+accuracy_score	0.732549019608
+f1_score	0.456140350877
+precision_score	0.595833333333
+recall_score	0.369509043928
+2 class classification	-1/0,1
+accuracy_score	0.917647058824
+f1_score	0.16
+precision_score	0.434782608696
+recall_score	0.0980392156863
+matrix_cross_valid
+706,73,7
+238,143,6
+68,24,10
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.679215686275
+f1_score	0.679215686275
+precision_score	0.679215686275
+recall_score	0.679215686275
+2 class classification	0/1,-1
+accuracy_score	0.698823529412
+f1_score	0.784511784512
+precision_score	0.701807228916
+recall_score	0.889312977099
+2 class classification	1/0,-1
+accuracy_score	0.741960784314
+f1_score	0.493066255778
+precision_score	0.610687022901
+recall_score	0.413436692506
+2 class classification	-1/0,1
+accuracy_score	0.917647058824
+f1_score	0.117647058824
+precision_score	0.411764705882
+recall_score	0.0686274509804
+matrix_cross_valid
+699,83,4
+221,160,6
+76,19,7
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.689411764706
+f1_score	0.689411764706
+precision_score	0.689411764706
+recall_score	0.689411764706
+2 class classification	0/1,-1
+accuracy_score	0.71137254902
+f1_score	0.794642857143
+precision_score	0.707753479125
+recall_score	0.905852417303
+2 class classification	1/0,-1
+accuracy_score	0.749803921569
+f1_score	0.499215070644
+precision_score	0.636
+recall_score	0.410852713178
+2 class classification	-1/0,1
+accuracy_score	0.917647058824
+f1_score	0.132231404959
+precision_score	0.421052631579
+recall_score	0.078431372549
+matrix_cross_valid
+712,69,5
+222,159,6
+72,22,8
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.674509803922
+f1_score	0.674509803922
+precision_score	0.674509803922
+recall_score	0.674509803922
+2 class classification	0/1,-1
+accuracy_score	0.699607843137
+f1_score	0.783493499152
+precision_score	0.70498474059
+recall_score	0.881679389313
+2 class classification	1/0,-1
+accuracy_score	0.734117647059
+f1_score	0.48401826484
+precision_score	0.588888888889
+recall_score	0.410852713178
+2 class classification	-1/0,1
+accuracy_score	0.915294117647
+f1_score	0.129032258065
+precision_score	0.363636363636
+recall_score	0.078431372549
+matrix_cross_valid
+693,86,7
+221,159,7
+69,25,8
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.674509803922
+f1_score	0.674509803922
+precision_score	0.674509803922
+recall_score	0.674509803922
+2 class classification	0/1,-1
+accuracy_score	0.691764705882
+f1_score	0.780324203466
+precision_score	0.69591226321
+recall_score	0.888040712468
+2 class classification	1/0,-1
+accuracy_score	0.738823529412
+f1_score	0.475590551181
+precision_score	0.608870967742
+recall_score	0.390180878553
+2 class classification	-1/0,1
+accuracy_score	0.918431372549
+f1_score	0.174603174603
+precision_score	0.458333333333
+recall_score	0.107843137255
+matrix_cross_valid
+698,80,8
+231,151,5
+74,17,11
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.682352941176
+f1_score	0.682352941176
+precision_score	0.682352941176
+recall_score	0.682352941176
+2 class classification	0/1,-1
+accuracy_score	0.70431372549
+f1_score	0.789267747345
+precision_score	0.703888334995
+recall_score	0.898218829517
+2 class classification	1/0,-1
+accuracy_score	0.741960784314
+f1_score	0.48992248062
+precision_score	0.612403100775
+recall_score	0.40826873385
+2 class classification	-1/0,1
+accuracy_score	0.918431372549
+f1_score	0.103448275862
+precision_score	0.428571428571
+recall_score	0.0588235294118
+matrix_cross_valid
+706,78,2
+223,158,6
+74,22,6
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.687843137255
+f1_score	0.687843137255
+precision_score	0.687843137255
+recall_score	0.687843137255
+2 class classification	0/1,-1
+accuracy_score	0.705098039216
+f1_score	0.789473684211
+precision_score	0.705
+recall_score	0.896946564885
+2 class classification	1/0,-1
+accuracy_score	0.749803921569
+f1_score	0.502340093604
+precision_score	0.633858267717
+recall_score	0.416020671835
+2 class classification	-1/0,1
+accuracy_score	0.920784313725
+f1_score	0.178861788618
+precision_score	0.52380952381
+recall_score	0.107843137255
+matrix_cross_valid
+705,74,7
+223,161,3
+72,19,11
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.679215686275
+f1_score	0.679215686275
+precision_score	0.679215686275
+recall_score	0.679215686275
+2 class classification	0/1,-1
+accuracy_score	0.697254901961
+f1_score	0.782902137233
+precision_score	0.701612903226
+recall_score	0.885496183206
+2 class classification	1/0,-1
+accuracy_score	0.742745098039
+f1_score	0.49226006192
+precision_score	0.6138996139
+recall_score	0.410852713178
+2 class classification	-1/0,1
+accuracy_score	0.918431372549
+f1_score	0.174603174603
+precision_score	0.458333333333
+recall_score	0.107843137255
+matrix_cross_valid
+696,82,8
+223,159,5
+73,18,11
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.696470588235
+f1_score	0.696470588235
+precision_score	0.696470588235
+recall_score	0.696470588235
+2 class classification	0/1,-1
+accuracy_score	0.710588235294
+f1_score	0.796019900498
+precision_score	0.703812316716
+recall_score	0.916030534351
+2 class classification	1/0,-1
+accuracy_score	0.755294117647
+f1_score	0.493506493506
+precision_score	0.663755458515
+recall_score	0.392764857881
+2 class classification	-1/0,1
+accuracy_score	0.927058823529
+f1_score	0.256
+precision_score	0.695652173913
+recall_score	0.156862745098
+matrix_cross_valid
+720,63,3
+231,152,4
+72,14,16
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.686274509804
+f1_score	0.686274509804
+precision_score	0.686274509804
+recall_score	0.686274509804
+2 class classification	0/1,-1
+accuracy_score	0.705098039216
+f1_score	0.791111111111
+precision_score	0.702169625247
+recall_score	0.905852417303
+2 class classification	1/0,-1
+accuracy_score	0.750588235294
+f1_score	0.490384615385
+precision_score	0.645569620253
+recall_score	0.395348837209
+2 class classification	-1/0,1
+accuracy_score	0.916862745098
+f1_score	0.15873015873
+precision_score	0.416666666667
+recall_score	0.0980392156863
+matrix_cross_valid
+712,64,10
+230,153,4
+72,20,10
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.67137254902
+f1_score	0.67137254902
+precision_score	0.67137254902
+recall_score	0.67137254902
+2 class classification	0/1,-1
+accuracy_score	0.690980392157
+f1_score	0.783039647577
+precision_score	0.690291262136
+recall_score	0.904580152672
+2 class classification	1/0,-1
+accuracy_score	0.732549019608
+f1_score	0.449111470113
+precision_score	0.599137931034
+recall_score	0.359173126615
+2 class classification	-1/0,1
+accuracy_score	0.919215686275
+f1_score	0.104347826087
+precision_score	0.461538461538
+recall_score	0.0588235294118
+matrix_cross_valid
+711,71,4
+245,139,3
+74,22,6
+
+
+seed	42
+'3 class classification	0/1/-1
+accuracy_score	0.690980392157
+f1_score	0.690980392157
+precision_score	0.690980392157
+recall_score	0.690980392157
+2 class classification	0/1,-1
+accuracy_score	0.713725490196
+f1_score	0.795975405254
+precision_score	0.709870388833
+recall_score	0.905852417303
+2 class classification	1/0,-1
+accuracy_score	0.749803921569
+f1_score	0.502340093604
+precision_score	0.633858267717
+recall_score	0.416020671835
+2 class classification	-1/0,1
+accuracy_score	0.918431372549
+f1_score	0.133333333333
+precision_score	0.444444444444
+recall_score	0.078431372549
+matrix_cross_valid
+712,68,6
+222,161,4
+69,25,8

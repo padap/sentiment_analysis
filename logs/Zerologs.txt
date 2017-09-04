@@ -1,0 +1,27 @@
+
+
+seed	0
+'3 class classification	0/1/-1
+accuracy_score	0.616470588235
+f1_score	0.616470588235
+precision_score	0.616470588235
+recall_score	0.616470588235
+2 class classification	0/1,-1
+accuracy_score	0.616470588235
+f1_score	0.762736535662
+precision_score	0.616470588235
+recall_score	1.0
+2 class classification	1/0,-1
+accuracy_score	0.696470588235
+f1_score	0.0
+precision_score	0.0
+recall_score	0.0
+2 class classification	-1/0,1
+accuracy_score	0.92
+f1_score	0.0
+precision_score	0.0
+recall_score	0.0
+matrix_cross_valid
+786,0,0
+387,0,0
+102,0,0
